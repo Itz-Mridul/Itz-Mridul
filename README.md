@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mridul Pandey!<br>🚀 1st Year CSE Student | 🐧 Linux Enthusiast<br>🛡️ Focus: DSA • Cybersecurity • Blockchain • IoT<br>💻 Tech: Python • C++ • JavaScript • HTML/CSS • Bootstrap<br>🐧 Vibe: Living in the terminal. #TeamLinux<br>🤝 Let's Connect:<br>💼 LinkedIn: mridulpandey07<br>📧 Email: quantumarchitectes@gmail.com<br>✉️ Secondary: itz-mridul@outlook.com
+👋 Hi, I’m Mridul Pandey!<br>🚀 1st Year CSE Student | 🐧 Linux Enthusiast<br>🛡️ Focus: DSA • Cybersecurity • Blockchain • IoT<br>💻 Tech: Python • C++ • JavaScript • HTML/CSS • Bootstrap<br>🐧 Vibe: Living in the terminal. #TeamLinux<br>🤝 Let's Connect:<br>💼 LinkedIn: Itz-Mridul<br>📧 Email: Itz-Mridul@outlook.com<br>✉️ Secondary: quantumarchitectes@gmail.com
 
 
 ## 🌐 Socials:
